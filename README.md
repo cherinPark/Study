@@ -5,7 +5,9 @@
 - 기초 다지기 중
 - 목표: Restful API 구현
 
-2022.03.08-Eclipse와 Oracle 연동 작업 => sqlplus로 따로 입력 필요, 이클립스 자체에서는 연동 하려고 하면 ICU library 오류 발생. 추후에 고려, 현재 국비과정에서는 사용 X.
+2023.03.08-Eclipse와 Oracle 연동 작업 => sqlplus로 따로 입력 필요, 이클립스 자체에서는 연동 하려고 하면 ICU library 오류 발생. 추후에 고려, 현재 국비과정에서는 사용 X.
 
-2022-03-09-Twitter 로그인 + TwitterList 동적 페이지 연결 완료.
+2023.03.09-Twitter 로그인 + TwitterList 동적 페이지 연결 완료.
 + 국비 과제로 학생 성적 프로그램 생성 실패, jsp와 sql 설계 X. => 다른 분거 보면서 비교하고 분석할 예정.
+
+2023.03.10-어제 했던 Twitter 파일들 분석, 메소드와 파라미터 공부. ArrayList만 따로 공부 필요.
